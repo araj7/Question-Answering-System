@@ -1,6 +1,6 @@
 # Question-Answering-System
 
-The program should answers Who, What, When and Where questions and is cabaple of handling questions from any domain. It provides answers in complete sentences
+The program answers Who, What, When and Where questions and is cabaple of handling questions from any domain. It provides answers in complete sentences
 that are specific to the question asked. It takes an approach approach similar to that of the AskMSR system, and reformulates the question as a series of "answer patterns" and looks for it in Wikipedia, where one can find an exact match to one of the patterns.
 
 For instance, if the question was "Where is Malosky Stadium?". the program can reformulate that question using the answer patterns "Malosky Stadium is located
